@@ -1,0 +1,7 @@
+{
+    "name": "datalife-snippets",
+    "version": "1.0.0",
+    "description": "This package contains Datalife Engine code snippets (Template tags) for Sublime Text.",
+    "main": "README.md",
+    "author": "jyarali"
+}
