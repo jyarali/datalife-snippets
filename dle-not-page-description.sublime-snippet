@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-page-description] ${1:text} [/not-page-description] ]]></content> <tabTrigger>not-page-description</tabTrigger> <description>The enclosed text is displayed if the de...</description> <scope>text.html</scope> </snippet>

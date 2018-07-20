@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news-count} ]]></content> <tabTrigger>news-count</tabTrigger> <description>Displays a number of articles of the cat...</description> <scope>text.html</scope> </snippet>

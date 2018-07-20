@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [reply] ${1:and} [/reply] ]]></content> <tabTrigger>reply:pm</tabTrigger> <description>Link to reply to a message</description> <scope>text.html</scope> </snippet>

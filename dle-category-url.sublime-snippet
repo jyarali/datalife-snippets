@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {category-url} ]]></content> <tabTrigger>category-url</tabTrigger> <description>Displays the full URL to the category wh...</description> <scope>text.html</scope> </snippet>

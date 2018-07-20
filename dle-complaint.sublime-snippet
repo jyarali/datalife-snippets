@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [complaint] ${1:text} [/complaint] ]]></content> <tabTrigger>complaint</tabTrigger> <description>Displays the enclosed text as a link to ...</description> <scope>text.html</scope> </snippet>

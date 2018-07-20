@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [full-link] ${1:text} [/full-link] ]]></content> <tabTrigger>full-link:if</tabTrigger> <description>Link to the full article, for example [f...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [allow-online] ${1:text} [/allow-online] ]]></content> <tabTrigger>allow-online</tabTrigger> <description>Displays the enclosed text, if the loade...</description> <scope>text.html</scope> </snippet>

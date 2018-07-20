@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {fullname} ]]></content> <tabTrigger>fullname</tabTrigger> <description>Full name of a user</description> <scope>text.html</scope> </snippet>

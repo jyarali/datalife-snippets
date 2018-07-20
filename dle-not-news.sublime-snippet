@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-news=${1:1,2,3}] ${2:text} [/not-news] ]]></content> <tabTrigger>not-news</tabTrigger> <description>Displays text on any page except the new...</description> <scope>text.html</scope> </snippet>

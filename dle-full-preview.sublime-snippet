@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [full-preview] ${1:text} [/full-preview] ]]></content> <tabTrigger>full-preview</tabTrigger> <description> displays the text for the full article ...</description> <scope>text.html</scope> </snippet>

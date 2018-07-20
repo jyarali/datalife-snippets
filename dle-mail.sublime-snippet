@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {mail} ]]></content> <tabTrigger>mail</tabTrigger> <description>E-mail of user who left the comment</description> <scope>text.html</scope> </snippet>

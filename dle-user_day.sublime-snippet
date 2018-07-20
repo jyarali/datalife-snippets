@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {user_day} ]]></content> <tabTrigger>user_day</tabTrigger> <description>Users registered per day</description> <scope>text.html</scope> </snippet>

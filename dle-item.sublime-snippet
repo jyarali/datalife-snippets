@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [item] ${1:text} [/item] ]]></content> <tabTrigger>item</tabTrigger> <description>Represents a single category list item w...</description> <scope>text.html</scope> </snippet>

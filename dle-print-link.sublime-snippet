@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [print-link] ${1:print} [/print-link] ]]></content> <tabTrigger>print-link</tabTrigger> <description>Link to the printable version</description> <scope>text.html</scope> </snippet>

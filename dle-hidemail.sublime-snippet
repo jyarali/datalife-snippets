@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {hidemail} ]]></content> <tabTrigger>hidemail</tabTrigger> <description>Displays checkbox to hide an e-mail addr...</description> <scope>text.html</scope> </snippet>

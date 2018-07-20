@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [xfvalue_${1:X}] ]]></content> <tabTrigger>xfvalue</tabTrigger> <description>Displays the value of extra field "x", w...</description> <scope>text.html</scope> </snippet>

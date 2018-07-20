@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {jsfiles} ]]></content> <tabTrigger>jsfiles</tabTrigger> <description>Shows all the involved JS scripts which ...</description> <scope>text.html</scope> </snippet>

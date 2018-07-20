@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {frage} ]]></content> <tabTrigger>frage</tabTrigger> <description>Displays the question from the voting wh...</description> <scope>text.html</scope> </snippet>

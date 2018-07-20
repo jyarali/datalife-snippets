@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {category} ]]></content> <tabTrigger>category</tabTrigger> <description>Article category</description> <scope>text.html</scope> </snippet>

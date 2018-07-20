@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {date} ]]></content> <tabTrigger>date</tabTrigger> <description>Publication date. The date format can be...</description> <scope>text.html</scope> </snippet>

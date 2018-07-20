@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {edit-date} ]]></content> <tabTrigger>edit-date</tabTrigger> <description>Displays the date when the article has b...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [category=${1:X}] ${2:text} [/category] ]]></content> <tabTrigger>category:if</tabTrigger> <description>Designed to display text when the user i...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {catnewscount id="${1:1}"} ]]></content> <tabTrigger>catnewscount</tabTrigger> <description>Displays the number of articles within a...</description> <scope>text.html</scope> </snippet>

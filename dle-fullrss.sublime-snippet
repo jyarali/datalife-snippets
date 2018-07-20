@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [fullrss] ${1:text} [/fullrss] ]]></content> <tabTrigger>fullrss</tabTrigger> <description>Displays the enclosed text if the full f...</description> <scope>text.html</scope> </snippet>

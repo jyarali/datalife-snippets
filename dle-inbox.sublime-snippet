@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [inbox] ${1:and} [/inbox] ]]></content> <tabTrigger>inbox</tabTrigger> <description>Link to inbox</description> <scope>text.html</scope> </snippet>

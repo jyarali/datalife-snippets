@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [childrencomments] ${1:text} [/childrencomments] ]]></content> <tabTrigger>childrencomments</tabTrigger> <description>Display the enclosed text if the comment...</description> <scope>text.html</scope> </snippet>

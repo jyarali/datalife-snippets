@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [del-favorites] ${1:text} [/del-favorites] ]]></content> <tabTrigger>del-favorites</tabTrigger> <description>Link to remove the article from Favorite...</description> <scope>text.html</scope> </snippet>

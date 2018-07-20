@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {poll} ]]></content> <tabTrigger>poll</tabTrigger> <description>Displays the voting of this article</description> <scope>text.html</scope> </snippet>

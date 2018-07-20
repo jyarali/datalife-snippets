@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {logout-link} ]]></content> <tabTrigger>logout-link</tabTrigger> <description>Link to log out the user form the websit...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {user_month} ]]></content> <tabTrigger>user_month</tabTrigger> <description>Users registered this month</description> <scope>text.html</scope> </snippet>

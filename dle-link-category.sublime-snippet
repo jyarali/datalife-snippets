@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {link-category} ]]></content> <tabTrigger>link-category</tabTrigger> <description>Link to the list of categories where the...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {author} ]]></content> <tabTrigger>author:pm</tabTrigger> <description>Recipient of the message</description> <scope>text.html</scope> </snippet>

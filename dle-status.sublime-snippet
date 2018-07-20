@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {status} ]]></content> <tabTrigger>status</tabTrigger> <description>User status (his/her user group)</description> <scope>text.html</scope> </snippet>

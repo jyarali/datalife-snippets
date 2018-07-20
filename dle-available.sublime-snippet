@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [available=${1:global,main,...}] ${2:text} [/available] ]]></content> <tabTrigger>available</tabTrigger> <description>displays the text enclosed in the tag if...</description> <scope>text.html</scope> </snippet>

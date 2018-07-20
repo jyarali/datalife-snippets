@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {ignore-list} ]]></content> <tabTrigger>ignore-list</tabTrigger> <description>List of users from the ignore list</description> <scope>text.html</scope> </snippet>

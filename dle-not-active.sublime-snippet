@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-active] ${1:text} [/not-active] ]]></content> <tabTrigger>not-active</tabTrigger> <description>The enclosed text is displayed if the vi...</description> <scope>text.html</scope> </snippet>

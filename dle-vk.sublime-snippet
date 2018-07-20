@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [vk] ${1:text} [/vk] ]]></content> <tabTrigger>vk</tabTrigger> <description>Displays the enclosed text if authorizat...</description> <scope>text.html</scope> </snippet>

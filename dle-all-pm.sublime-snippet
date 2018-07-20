@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {all-pm} ]]></content> <tabTrigger>all-pm</tabTrigger> <description>The total number of personal messages</description> <scope>text.html</scope> </snippet>

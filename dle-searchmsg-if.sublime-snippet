@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [searchmsg] ${1:and} [/searchmsg] ]]></content> <tabTrigger>searchmsg:if</tabTrigger> <description>Displays the encoded text if search has ...</description> <scope>text.html</scope> </snippet>

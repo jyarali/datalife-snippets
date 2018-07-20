@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news-id} ]]></content> <tabTrigger>news-id</tabTrigger> <description>Article ID. This ID is used to store thi...</description> <scope>text.html</scope> </snippet>

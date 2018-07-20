@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {searchmsg} ]]></content> <tabTrigger>searchmsg</tabTrigger> <description>Displays the message about the search re...</description> <scope>text.html</scope> </snippet>

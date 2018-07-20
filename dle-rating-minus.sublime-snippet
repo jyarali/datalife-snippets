@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [rating-minus] ${1:text} [/rating-minus] ]]></content> <tabTrigger>rating-minus</tabTrigger> <description>Displays the enclosed text as a link to ...</description> <scope>text.html</scope> </snippet>

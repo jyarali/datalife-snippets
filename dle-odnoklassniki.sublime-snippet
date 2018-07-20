@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [odnoklassniki] ${1:text} [/odnoklassniki] ]]></content> <tabTrigger>odnoklassniki</tabTrigger> <description>Displays the enclosed text if authorizat...</description> <scope>text.html</scope> </snippet>

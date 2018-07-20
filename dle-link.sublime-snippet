@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {link} ]]></content> <tabTrigger>link</tabTrigger> <description>Link to the article</description> <scope>text.html</scope> </snippet>

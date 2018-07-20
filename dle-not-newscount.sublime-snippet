@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-newscount=${1:x}] ${2:text} [/not-newscount] ]]></content> <tabTrigger>not-newscount</tabTrigger> <description>Displays the enclosed text when any arti...</description> <scope>text.html</scope> </snippet>

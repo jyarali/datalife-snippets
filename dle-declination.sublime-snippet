@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [declination=${1:X}] ${2:text} [/declination] ]]></content> <tabTrigger>declination</tabTrigger> <description>Changes endings according to the specifi...</description> <scope>text.html</scope> </snippet>

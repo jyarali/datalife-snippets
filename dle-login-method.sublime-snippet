@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {login-method} ]]></content> <tabTrigger>login-method</tabTrigger> <description>Displays what the user should enter to l...</description> <scope>text.html</scope> </snippet>

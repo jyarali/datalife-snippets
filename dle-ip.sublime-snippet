@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {ip} ]]></content> <tabTrigger>ip</tabTrigger> <description>IP address of user who left the comment....</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {fullimage-${1:x}} ]]></content> <tabTrigger>fullimage</tabTrigger> <description>Displays the URL of the image which is i...</description> <scope>text.html</scope> </snippet>

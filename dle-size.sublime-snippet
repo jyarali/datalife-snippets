@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {size} ]]></content> <tabTrigger>size</tabTrigger> <description>File size</description> <scope>text.html</scope> </snippet>

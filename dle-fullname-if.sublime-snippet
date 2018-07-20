@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [fullname] ${1:text} [/fullname] ]]></content> <tabTrigger>fullname:if</tabTrigger> <description>Displays the enclosed text if the full n...</description> <scope>text.html</scope> </snippet>

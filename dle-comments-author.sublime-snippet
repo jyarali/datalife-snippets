@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [comments-author] ${1:text} [/comments-author] ]]></content> <tabTrigger>comments-author</tabTrigger> <description>Enclosed text is displayed if user who v...</description> <scope>text.html</scope> </snippet>

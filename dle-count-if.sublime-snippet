@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [count] ${1:text} [/count] ]]></content> <tabTrigger>count:if</tabTrigger> <description>Displays the enclosed text if the file d...</description> <scope>text.html</scope> </snippet>

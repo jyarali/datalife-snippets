@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {reason} ]]></content> <tabTrigger>reason</tabTrigger> <description>Used to display the reasons of the websi...</description> <scope>text.html</scope> </snippet>

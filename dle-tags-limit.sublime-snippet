@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {tags limit="${1:100}"} ]]></content> <tabTrigger>tags:limit</tabTrigger> <description>Used to display the top 100 key tags fro...</description> <scope>text.html</scope> </snippet>

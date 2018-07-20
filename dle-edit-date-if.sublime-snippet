@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [edit-date] ${1:text} [/edit-date] ]]></content> <tabTrigger>edit-date:if</tabTrigger> <description>Displays the text if the text or the art...</description> <scope>text.html</scope> </snippet>

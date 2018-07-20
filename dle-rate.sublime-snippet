@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {rate} ]]></content> <tabTrigger>rate</tabTrigger> <description>Current rating of user's articles (forme...</description> <scope>text.html</scope> </snippet>

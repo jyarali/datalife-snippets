@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {new-pm} ]]></content> <tabTrigger>new-pm</tabTrigger> <description>The number of new personal messages</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [related-news]{related-news}[/related-news] ]]></content> <tabTrigger>related-news</tabTrigger> <description>Displays related news block when viewing...</description> <scope>text.html</scope> </snippet>

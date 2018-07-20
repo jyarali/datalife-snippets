@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {md5} ]]></content> <tabTrigger>md5</tabTrigger> <description>MD5 checksum of the uploaded file</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-treecomments] ${1:text} [/not-treecomments] ]]></content> <tabTrigger>not-treecomments</tabTrigger> <description>Enclosed text is displayed if tree-like ...</description> <scope>text.html</scope> </snippet>

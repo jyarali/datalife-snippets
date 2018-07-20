@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {THEME} ]]></content> <tabTrigger>THEME</tabTrigger> <description>The path to the selected template</description> <scope>text.html</scope> </snippet>

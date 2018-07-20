@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {datenbank} ]]></content> <tabTrigger>datenbank</tabTrigger> <description>Total size of the database.</description> <scope>text.html</scope> </snippet>

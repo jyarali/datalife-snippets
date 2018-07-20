@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {foto} ]]></content> <tabTrigger>foto</tabTrigger> <description>Link to the user's avatar</description> <scope>text.html</scope> </snippet>

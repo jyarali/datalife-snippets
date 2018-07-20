@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [recaptcha] ${1:text} [/recaptcha] ]]></content> <tabTrigger>recaptcha:if</tabTrigger> <description>Displays the enclosed text if reCAPTCHA ...</description> <scope>text.html</scope> </snippet>

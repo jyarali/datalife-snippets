@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [validation] ${1:and} [/validation] ]]></content> <tabTrigger>validation</tabTrigger> <description>Displays the enclosed text during the va...</description> <scope>text.html</scope> </snippet>

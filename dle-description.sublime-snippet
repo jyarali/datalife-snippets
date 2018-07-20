@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {description} ]]></content> <tabTrigger>description</tabTrigger> <description>Description of the static page</description> <scope>text.html</scope> </snippet>

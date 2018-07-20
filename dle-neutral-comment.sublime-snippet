@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [neutral-comment] ${1:text} [/neutral-comment] ]]></content> <tabTrigger>neutral-comment</tabTrigger> <description>Enclosed text is displayed if the commen...</description> <scope>text.html</scope> </snippet>

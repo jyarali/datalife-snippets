@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [shortresult] ${1:and} [/shortresult] ]]></content> <tabTrigger>shortresult</tabTrigger> <description>Display results as titles</description> <scope>text.html</scope> </snippet>

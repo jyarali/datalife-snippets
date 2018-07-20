@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {error} ]]></content> <tabTrigger>error</tabTrigger> <description>text of message</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {login} ]]></content> <tabTrigger>login:home</tabTrigger> <description>Panel for users login and registration</description> <scope>text.html</scope> </snippet>

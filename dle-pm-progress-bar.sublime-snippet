@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {pm-progress-bar} ]]></content> <tabTrigger>pm-progress-bar</tabTrigger> <description>Bar of fullness of personal messages</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news-title} ]]></content> <tabTrigger>news-title</tabTrigger> <description>It displays HTML-safe header of an artic...</description> <scope>text.html</scope> </snippet>

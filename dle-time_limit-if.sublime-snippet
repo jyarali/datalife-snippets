@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [time_limit] ${1:text} [/time_limit] ]]></content> <tabTrigger>time_limit:if</tabTrigger> <description>Displays the enclosed text if user is in...</description> <scope>text.html</scope> </snippet>

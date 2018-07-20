@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {question} ]]></content> <tabTrigger>question</tabTrigger> <description>Displays the question from the list of q...</description> <scope>text.html</scope> </snippet>

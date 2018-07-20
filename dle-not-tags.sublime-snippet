@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-tags=${1:tag1,tag2,tag3}] ${2:text} [/not-tags] ]]></content> <tabTrigger>not-tags</tabTrigger> <description>Displays text on any page except the spe...</description> <scope>text.html</scope> </snippet>

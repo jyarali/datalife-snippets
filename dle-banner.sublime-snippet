@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {banner_${1:name}} ]]></content> <tabTrigger>banner</tabTrigger> <description>This tag is used to display advertising ...</description> <scope>text.html</scope> </snippet>

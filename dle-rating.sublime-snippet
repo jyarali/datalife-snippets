@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {rating} ]]></content> <tabTrigger>rating</tabTrigger> <description>Displays the article rating</description> <scope>text.html</scope> </snippet>

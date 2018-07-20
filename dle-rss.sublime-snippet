@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [rss] ${1:text} [/rss] ]]></content> <tabTrigger>rss</tabTrigger> <description>Link in the profile to the RSS feed of a...</description> <scope>text.html</scope> </snippet>

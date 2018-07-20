@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {extension} ]]></content> <tabTrigger>extension</tabTrigger> <description>Displays the extension of the attached f...</description> <scope>text.html</scope> </snippet>

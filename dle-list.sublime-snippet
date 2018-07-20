@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {list} ]]></content> <tabTrigger>list</tabTrigger> <description>List of possible answers</description> <scope>text.html</scope> </snippet>

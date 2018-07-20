@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {commentsrate} ]]></content> <tabTrigger>commentsrate</tabTrigger> <description>Displays the total rating of all comment...</description> <scope>text.html</scope> </snippet>

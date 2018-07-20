@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {link} ]]></content> <tabTrigger>link:file</tabTrigger> <description>URL to the file downloading</description> <scope>text.html</scope> </snippet>

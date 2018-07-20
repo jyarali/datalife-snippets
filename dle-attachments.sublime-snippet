@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [attachments] ${1:text} [/attachments] ]]></content> <tabTrigger>attachments</tabTrigger> <description>Text in these tags is displayed if attac...</description> <scope>text.html</scope> </snippet>

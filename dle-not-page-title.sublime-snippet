@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-page-title] ${1:text} [/not-page-title] ]]></content> <tabTrigger>not-page-title</tabTrigger> <description>Displays the enclosed text if page title...</description> <scope>text.html</scope> </snippet>

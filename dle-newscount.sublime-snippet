@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [newscount=${1:x}] ${2:text} [/newscount] ]]></content> <tabTrigger>newscount</tabTrigger> <description>Displays the enclosed text if the articl...</description> <scope>text.html</scope> </snippet>

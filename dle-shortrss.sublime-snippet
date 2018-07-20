@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [shortrss] ${1:text} [/shortrss] ]]></content> <tabTrigger>shortrss</tabTrigger> <description>Displays the enclosed text if the short ...</description> <scope>text.html</scope> </snippet>

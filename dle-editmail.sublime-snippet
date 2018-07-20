@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {editmail} ]]></content> <tabTrigger>editmail</tabTrigger> <description>E-mail address</description> <scope>text.html</scope> </snippet>

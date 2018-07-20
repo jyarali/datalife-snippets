@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [next-link] ${1:text} [/next-link] ]]></content> <tabTrigger>next-link</tabTrigger> <description>Creates a link to the next page (if ther...</description> <scope>text.html</scope> </snippet>

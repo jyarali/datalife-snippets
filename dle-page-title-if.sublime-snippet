@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [page-title] ${1:text} [/page-title] ]]></content> <tabTrigger>page-title if</tabTrigger> <description>Displays the enclosed text if page title...</description> <scope>text.html</scope> </snippet>

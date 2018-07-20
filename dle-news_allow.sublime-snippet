@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news_allow} ]]></content> <tabTrigger>news_allow</tabTrigger> <description>News published</description> <scope>text.html</scope> </snippet>

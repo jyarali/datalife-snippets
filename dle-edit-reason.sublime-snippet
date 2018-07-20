@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {edit-reason} ]]></content> <tabTrigger>edit-reason</tabTrigger> <description>Displays the edit reason</description> <scope>text.html</scope> </snippet>

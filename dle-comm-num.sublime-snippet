@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {comm-num} ]]></content> <tabTrigger>comm-num</tabTrigger> <description>Number of user's comments</description> <scope>text.html</scope> </snippet>

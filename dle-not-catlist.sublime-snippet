@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-catlist=${1:1,2....}] ${2:text} [/not-catlist] ]]></content> <tabTrigger>not-catlist</tabTrigger> <description>Displays the enclosed text if the articl...</description> <scope>text.html</scope> </snippet>

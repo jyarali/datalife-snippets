@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-category=${1:1}] ${2:text} [/not-category] ]]></content> <tabTrigger>not-category</tabTrigger> <description>Designed to display text when the user i...</description> <scope>text.html</scope> </snippet>

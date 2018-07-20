@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {addnews-link} ]]></content> <tabTrigger>addnews-link</tabTrigger> <description>Link to the page of adding news on the w...</description> <scope>text.html</scope> </snippet>

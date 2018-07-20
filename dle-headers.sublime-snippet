@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {headers} ]]></content> <tabTrigger>headers</tabTrigger> <description>Displays generated meta tags on the page...</description> <scope>text.html</scope> </snippet>

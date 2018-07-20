@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {next-url} ]]></content> <tabTrigger>next-url</tabTrigger> <description>Displays the URL of the next article</description> <scope>text.html</scope> </snippet>

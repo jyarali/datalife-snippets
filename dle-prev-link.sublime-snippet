@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [prev-link] ${1:text} [/prev-link] ]]></content> <tabTrigger>prev-link</tabTrigger> <description>Creates a link to the previous page (if ...</description> <scope>text.html</scope> </snippet>

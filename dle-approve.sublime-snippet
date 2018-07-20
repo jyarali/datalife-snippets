@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {approve} ]]></content> <tabTrigger>approve</tabTrigger> <description>Displayed only when a user is viewing hi...</description> <scope>text.html</scope> </snippet>

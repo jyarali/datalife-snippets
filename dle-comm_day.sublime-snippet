@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {comm_day} ]]></content> <tabTrigger>comm_day</tabTrigger> <description>Comments published per day</description> <scope>text.html</scope> </snippet>

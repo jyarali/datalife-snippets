@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {profile-link} ]]></content> <tabTrigger>profile-link</tabTrigger> <description>Link to the user profile</description> <scope>text.html</scope> </snippet>

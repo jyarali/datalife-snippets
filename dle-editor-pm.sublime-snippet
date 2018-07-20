@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {editor} ]]></content> <tabTrigger>editor:pm</tabTrigger> <description>Displays BBCODE or WYSIWYG editor depend...</description> <scope>text.html</scope> </snippet>

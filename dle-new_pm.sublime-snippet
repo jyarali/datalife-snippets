@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [new_pm] ${1:and} [/new_pm] ]]></content> <tabTrigger>new_pm</tabTrigger> <description>Link to unread personal messages</description> <scope>text.html</scope> </snippet>

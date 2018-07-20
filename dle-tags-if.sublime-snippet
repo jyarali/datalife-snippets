@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [tags=${1:tag1,tag2,tag3}] ${2:text} [/tags] ]]></content> <tabTrigger>tags:if</tabTrigger> <description>Displays the enclosed text when a visito...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {odnoklassniki_url} ]]></content> <tabTrigger>odnoklassniki_url</tabTrigger> <description>Displays the URL link to log in to Odnok...</description> <scope>text.html</scope> </snippet>

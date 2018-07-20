@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {date} ]]></content> <tabTrigger>date:file</tabTrigger> <description>Displays the date of the file upload, in...</description> <scope>text.html</scope> </snippet>

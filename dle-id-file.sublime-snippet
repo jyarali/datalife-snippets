@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {id} ]]></content> <tabTrigger>id:file</tabTrigger> <description>Displays the unique ID of the uploaded f...</description> <scope>text.html</scope> </snippet>

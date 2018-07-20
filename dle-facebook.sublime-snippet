@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [facebook] ${1:text} [/facebook] ]]></content> <tabTrigger>facebook</tabTrigger> <description>Displays the enclosed text if authorizat...</description> <scope>text.html</scope> </snippet>

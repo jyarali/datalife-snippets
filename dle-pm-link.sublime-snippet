@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {pm-link} ]]></content> <tabTrigger>pm-link</tabTrigger> <description>Link to this personal messages page</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-wysywyg] ${1:and} [/not-wysywyg] ]]></content> <tabTrigger>not-wysywyg</tabTrigger> <description>Displays the enclosed text if WYSIWYG is...</description> <scope>text.html</scope> </snippet>

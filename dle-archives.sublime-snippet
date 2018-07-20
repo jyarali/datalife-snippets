@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {archives} ]]></content> <tabTrigger>archives</tabTrigger> <description>Displays the archives</description> <scope>text.html</scope> </snippet>

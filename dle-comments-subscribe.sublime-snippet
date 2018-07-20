@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [comments-subscribe] ${1:text} [/comments-subscribe] ]]></content> <tabTrigger>comments-subscribe</tabTrigger> <description>Text between them is displayed as a link...</description> <scope>text.html</scope> </snippet>

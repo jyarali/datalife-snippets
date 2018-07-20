@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [fullimage-${1:x}] ${2:text} [/fullimage-${1:x}] ]]></content> <tabTrigger>fullimage:if</tabTrigger> <description>Displays the enclosed text only if there...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news_month} ]]></content> <tabTrigger>news_month</tabTrigger> <description>News published this month</description> <scope>text.html</scope> </snippet>

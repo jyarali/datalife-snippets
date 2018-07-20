@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news_moder} ]]></content> <tabTrigger>news_moder</tabTrigger> <description>Awaiting moderation</description> <scope>text.html</scope> </snippet>

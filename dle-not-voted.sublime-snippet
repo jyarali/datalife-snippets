@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-voted] ${1:text} [/not-voted] ]]></content> <tabTrigger>not-voted</tabTrigger> <description>Displays the enclosed text if the user h...</description> <scope>text.html</scope> </snippet>

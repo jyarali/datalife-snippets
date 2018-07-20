@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [com-del] ${1:delete} [/com-del] ]]></content> <tabTrigger>com-del</tabTrigger> <description>Link to the comment removal if it is all...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-poll] ${1:text} [/not-poll] ]]></content> <tabTrigger>not-poll</tabTrigger> <description>Displays the enclosed text if if this p...</description> <scope>text.html</scope> </snippet>

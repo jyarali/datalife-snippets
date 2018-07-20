@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {editsignature} ]]></content> <tabTrigger>editsignature</tabTrigger> <description>Displays the user's signature formatted ...</description> <scope>text.html</scope> </snippet>

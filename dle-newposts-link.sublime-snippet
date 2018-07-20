@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {newposts-link} ]]></content> <tabTrigger>newposts-link</tabTrigger> <description>Link to the list of unread news since hi...</description> <scope>text.html</scope> </snippet>

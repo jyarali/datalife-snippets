@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {catmenu} ]]></content> <tabTrigger>catmenu</tabTrigger> <description>Displays a menu of the categories of the...</description> <scope>text.html</scope> </snippet>

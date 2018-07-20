@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [registration] ${1:and} [/registration] ]]></content> <tabTrigger>registration:registratin</tabTrigger> <description>Displays the enclosed text when register...</description> <scope>text.html</scope> </snippet>

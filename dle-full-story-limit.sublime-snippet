@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {full-story limit="${1:x}"} ]]></content> <tabTrigger>full-story:limit</tabTrigger> <description>Displays the full article text without H...</description> <scope>text.html</scope> </snippet>

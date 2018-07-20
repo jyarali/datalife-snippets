@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {admintag} ]]></content> <tabTrigger>admintag</tabTrigger> <description>Displays extra options for Administrator</description> <scope>text.html</scope> </snippet>

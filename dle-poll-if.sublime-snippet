@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [poll] ${1:text} [/poll] ]]></content> <tabTrigger>poll:if</tabTrigger> <description>Displays the enclosed text if this publi...</description> <scope>text.html</scope> </snippet>

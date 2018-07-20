@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [xfnotgiven_${1:X}] ${2:text} [/xfnotgiven_${1:X}] ]]></content> <tabTrigger>xfnotgiven</tabTrigger> <description>Displays the enclosed text if extra fiel...</description> <scope>text.html</scope> </snippet>

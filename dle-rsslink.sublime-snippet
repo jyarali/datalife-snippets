@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {rsslink} ]]></content> <tabTrigger>rsslink</tabTrigger> <description>Full URL of the article</description> <scope>text.html</scope> </snippet>

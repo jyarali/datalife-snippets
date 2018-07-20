@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [commentsgroup=${1:1,2,3}] ${2:text} [/commentsgroup] ]]></content> <tabTrigger>commentsgroup</tabTrigger> <description>Displays the enclosed text if the commen...</description> <scope>text.html</scope> </snippet>

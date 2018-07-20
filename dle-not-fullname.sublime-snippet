@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-fullname] ${1:text} [/not-fullname] ]]></content> <tabTrigger>not-fullname</tabTrigger> <description>Displays the enclosed text only if the f...</description> <scope>text.html</scope> </snippet>

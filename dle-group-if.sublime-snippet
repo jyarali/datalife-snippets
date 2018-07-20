@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [group=${1:1,2,...}] ${2:text} [/group] ]]></content> <tabTrigger>group if</tabTrigger> <description>Displays the text for a certain user gro...</description> <scope>text.html</scope> </snippet>

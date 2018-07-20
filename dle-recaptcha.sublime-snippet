@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {recaptcha} ]]></content> <tabTrigger>recaptcha</tabTrigger> <description>Displays reCAPTCHA widget if it was enab...</description> <scope>text.html</scope> </snippet>

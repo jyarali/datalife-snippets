@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [readpm] ${1:and} [/readpm] ]]></content> <tabTrigger>readpm</tabTrigger> <description>Displays text in the tags if the message...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {rssauthor} ]]></content> <tabTrigger>rssauthor</tabTrigger> <description>Author of the article</description> <scope>text.html</scope> </snippet>

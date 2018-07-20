@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [comments] ${1:text} [/comments] ]]></content> <tabTrigger>comments:if</tabTrigger> <description>Displays the enclosed text if there are ...</description> <scope>text.html</scope> </snippet>

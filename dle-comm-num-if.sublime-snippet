@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [comm-num] ${1:text} [/comm-num] ]]></content> <tabTrigger>comm-num:if</tabTrigger> <description>Displays the enclosed text only if user ...</description> <scope>text.html</scope> </snippet>

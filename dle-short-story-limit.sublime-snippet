@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {short-story limit="${1:x}"} ]]></content> <tabTrigger>short-story:limit</tabTrigger> <description>Displays the article annotation text wit...</description> <scope>text.html</scope> </snippet>

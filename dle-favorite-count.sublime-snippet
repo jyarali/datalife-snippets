@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {favorite-count} ]]></content> <tabTrigger>favorite-count</tabTrigger> <description>The number of news added to Favorites li...</description> <scope>text.html</scope> </snippet>

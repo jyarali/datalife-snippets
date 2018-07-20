@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {favorites-link} ]]></content> <tabTrigger>favorites-link</tabTrigger> <description>Link to the user's Favorites list</description> <scope>text.html</scope> </snippet>

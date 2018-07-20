@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {page-description} ]]></content> <tabTrigger>page-description</tabTrigger> <description>Displays specified in the section "Title...</description> <scope>text.html</scope> </snippet>

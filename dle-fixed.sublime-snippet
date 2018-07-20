@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [fixed] ${1:text} [/fixed] ]]></content> <tabTrigger>fixed</tabTrigger> <description>Displays the enclosed text if this artic...</description> <scope>text.html</scope> </snippet>

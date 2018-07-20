@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {group-icon} ]]></content> <tabTrigger>group-icon</tabTrigger> <description>Displays the icon of a user group</description> <scope>text.html</scope> </snippet>

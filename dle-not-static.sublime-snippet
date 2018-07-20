@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-static=${1:page name}] ${2:text} [/not-static] ]]></content> <tabTrigger>not-static</tabTrigger> <description>Displays the enclosed text if user does ...</description> <scope>text.html</scope> </snippet>

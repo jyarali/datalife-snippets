@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [signature] ${1:text} [/signature] ]]></content> <tabTrigger>signature:if</tabTrigger> <description>Displays the enclosed text if user has s...</description> <scope>text.html</scope> </snippet>

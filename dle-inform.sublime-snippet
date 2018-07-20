@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {inform_${1:name}} ]]></content> <tabTrigger>inform</tabTrigger> <description>This tag is used to display the RSS info...</description> <scope>text.html</scope> </snippet>

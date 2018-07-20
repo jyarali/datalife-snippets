@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {include file="${1:my_block}.tpl"} ]]></content> <tabTrigger>include</tabTrigger> <description>You can also include one template into a...</description> <scope>text.html</scope> </snippet>

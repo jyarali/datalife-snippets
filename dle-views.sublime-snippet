@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {views} ]]></content> <tabTrigger>views</tabTrigger> <description>Number of views of the article</description> <scope>text.html</scope> </snippet>

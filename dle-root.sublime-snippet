@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [root] ${1:text} [/root] ]]></content> <tabTrigger>root</tabTrigger> <description>Displays a text between them when initia...</description> <scope>text.html</scope> </snippet>

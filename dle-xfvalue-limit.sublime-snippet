@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [xfvalue_${1:X} limit="${2:X2}"] ]]></content> <tabTrigger>xfvalue:limit</tabTrigger> <description>Displays the article annotation text wit...</description> <scope>text.html</scope> </snippet>

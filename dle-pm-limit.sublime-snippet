@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {pm-limit} ]]></content> <tabTrigger>pm-limit</tabTrigger> <description>Maximum number of messages that user can...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [commentscount=${1:x}] ${2:text} [/commentscount] ]]></content> <tabTrigger>commentscount</tabTrigger> <description>Displays the enclosed text if comment nu...</description> <scope>text.html</scope> </snippet>

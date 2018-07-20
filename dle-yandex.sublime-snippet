@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [yandex] ${1:text} [/yandex] ]]></content> <tabTrigger>yandex</tabTrigger> <description>Displays the enclosed text if authorizat...</description> <scope>text.html</scope> </snippet>

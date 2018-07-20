@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [outbox] ${1:and} [/outbox] ]]></content> <tabTrigger>outbox</tabTrigger> <description>Link to sent mail</description> <scope>text.html</scope> </snippet>

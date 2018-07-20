@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {short-story} ]]></content> <tabTrigger>short-story</tabTrigger> <description>Displays the article annotation text</description> <scope>text.html</scope> </snippet>

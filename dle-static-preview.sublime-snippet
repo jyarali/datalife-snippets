@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [static-preview] ${1:text} [/static-preview] ]]></content> <tabTrigger>static-preview</tabTrigger> <description>displays the text for the static page</description> <scope>text.html</scope> </snippet>

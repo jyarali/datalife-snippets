@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {votetitle} ]]></content> <tabTrigger>votetitle:addarticle</tabTrigger> <description>Displays the voting title when editing t...</description> <scope>text.html</scope> </snippet>

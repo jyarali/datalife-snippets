@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [fullresult] ${1:and} [/fullresult] ]]></content> <tabTrigger>fullresult</tabTrigger> <description>Display results as articles</description> <scope>text.html</scope> </snippet>

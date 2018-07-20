@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [rating-type-3] ${1:text} [/rating-type-3] ]]></content> <tabTrigger>rating-type-3</tabTrigger> <description>Displays the enclosed text if the third ...</description> <scope>text.html</scope> </snippet>

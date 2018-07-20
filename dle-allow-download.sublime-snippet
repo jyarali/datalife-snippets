@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [allow-download] ${1:text} [/allow-download] ]]></content> <tabTrigger>allow-download</tabTrigger> <description>Displays the enclosed text if the websit...</description> <scope>text.html</scope> </snippet>

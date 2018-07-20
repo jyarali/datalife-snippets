@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {category-id} ]]></content> <tabTrigger>category-id</tabTrigger> <description>Display the ID of the category viewed by...</description> <scope>text.html</scope> </snippet>

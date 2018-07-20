@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [xfvalue_image_url_${1:X}] ]]></content> <tabTrigger>xfvalue_image</tabTrigger> <description>This tag can be used only if extra field...</description> <scope>text.html</scope> </snippet>

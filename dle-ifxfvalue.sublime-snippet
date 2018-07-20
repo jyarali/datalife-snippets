@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [ifxfvalue tagname="${1:tagvalue}"] ${2:Text} [/ifxfvalue] ]]></content> <tabTrigger>ifxfvalue</tabTrigger> <description>Displays the enclosed text if the extra ...</description> <scope>text.html</scope> </snippet>

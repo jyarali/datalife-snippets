@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {allowed-ip} ]]></content> <tabTrigger>allowed-ip</tabTrigger> <description>IP from which the registration is allowe...</description> <scope>text.html</scope> </snippet>

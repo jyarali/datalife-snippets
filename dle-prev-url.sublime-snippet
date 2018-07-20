@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {prev-url} ]]></content> <tabTrigger>prev-url</tabTrigger> <description>Displays the URL of the previous article</description> <scope>text.html</scope> </snippet>

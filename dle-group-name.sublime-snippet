@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {group-name} ]]></content> <tabTrigger>group-name</tabTrigger> <description>Name of the user's group</description> <scope>text.html</scope> </snippet>

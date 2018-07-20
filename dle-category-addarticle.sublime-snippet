@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {category} ]]></content> <tabTrigger>category:addarticle</tabTrigger> <description>Displays the field of the category selec...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [rating] ${1:text} [/rating] ]]></content> <tabTrigger>rating:if</tabTrigger> <description>Displays the enclosed text if article ra...</description> <scope>text.html</scope> </snippet>

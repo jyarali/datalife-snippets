@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {editor} ]]></content> <tabTrigger>editor:story</tabTrigger> <description>Displays the login of user who edited th...</description> <scope>text.html</scope> </snippet>

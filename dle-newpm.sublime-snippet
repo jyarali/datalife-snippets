@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [newpm] ${1:and} [/newpm] ]]></content> <tabTrigger>newpm</tabTrigger> <description>Displays the enclosed text when writing ...</description> <scope>text.html</scope> </snippet>

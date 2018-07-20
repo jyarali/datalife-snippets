@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-logged] ${1:text} [/not-logged] ]]></content> <tabTrigger>not-logged</tabTrigger> <description>Displays the enclosed code if the user i...</description> <scope>text.html</scope> </snippet>

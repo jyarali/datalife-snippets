@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {editinfo} ]]></content> <tabTrigger>editinfo</tabTrigger> <description>Displays existing summary information in...</description> <scope>text.html</scope> </snippet>

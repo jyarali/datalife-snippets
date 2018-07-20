@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {full-link} ]]></content> <tabTrigger>full-link</tabTrigger> <description>Displays the full permanent address of t...</description> <scope>text.html</scope> </snippet>

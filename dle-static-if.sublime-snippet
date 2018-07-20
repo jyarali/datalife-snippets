@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [static=${1:page name}] ${2:text} [/static] ]]></content> <tabTrigger>static:if</tabTrigger> <description>Displays the enclosed text if user is vi...</description> <scope>text.html</scope> </snippet>

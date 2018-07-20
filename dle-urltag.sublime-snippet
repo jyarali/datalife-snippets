@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [urltag] ${1:and} [/urltag] ]]></content> <tabTrigger>urltag</tabTrigger> <description>Displays the enclosed text to edit User-...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [voteresult] ${1:and} [/voteresult] ]]></content> <tabTrigger>voteresult</tabTrigger> <description>Displays the enclosed text for those who...</description> <scope>text.html</scope> </snippet>

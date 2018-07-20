@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {timezones} ]]></content> <tabTrigger>timezones</tabTrigger> <description>It shows list of available time zones, a...</description> <scope>text.html</scope> </snippet>

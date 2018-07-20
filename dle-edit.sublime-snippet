@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [edit] ${1:edit} [/edit] ]]></content> <tabTrigger>edit</tabTrigger> <description>Link to edit the article</description> <scope>text.html</scope> </snippet>

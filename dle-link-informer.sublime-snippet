@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [link] ${1:text} [/link] ]]></content> <tabTrigger>link:informer</tabTrigger> <description>Creates a link to the partners news</description> <scope>text.html</scope> </snippet>

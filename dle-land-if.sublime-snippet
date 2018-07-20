@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [land] ${1:text} [/land] ]]></content> <tabTrigger>land:if</tabTrigger> <description>Displays the enclosed text only if user ...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {sub-item} ]]></content> <tabTrigger>sub-item</tabTrigger> <description>Represents subcategories in a parent cat...</description> <scope>text.html</scope> </snippet>

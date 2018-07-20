@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [edit-reason] ${1:text} [/edit-reason] ]]></content> <tabTrigger>edit-reason:if</tabTrigger> <description>Displays the text if edit reason has bee...</description> <scope>text.html</scope> </snippet>

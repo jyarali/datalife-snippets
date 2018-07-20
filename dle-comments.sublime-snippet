@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {comments} ]]></content> <tabTrigger>comments</tabTrigger> <description>Displays comments to this article. This ...</description> <scope>text.html</scope> </snippet>

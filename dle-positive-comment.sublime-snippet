@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [positive-comment] ${1:text} [/positive-comment] ]]></content> <tabTrigger>positive-comment</tabTrigger> <description>Enclosed text is displayed if the commen...</description> <scope>text.html</scope> </snippet>

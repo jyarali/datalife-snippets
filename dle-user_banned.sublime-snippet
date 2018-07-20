@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {user_banned} ]]></content> <tabTrigger>user_banned</tabTrigger> <description>Banned users</description> <scope>text.html</scope> </snippet>

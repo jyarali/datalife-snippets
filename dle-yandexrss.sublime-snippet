@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [yandexrss] ${1:text} [/yandexrss] ]]></content> <tabTrigger>yandexrss</tabTrigger> <description>Displays the enclosed text if the "Yande...</description> <scope>text.html</scope> </snippet>

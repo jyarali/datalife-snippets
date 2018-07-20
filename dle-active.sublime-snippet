@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [active] ${1:text} [/active] ]]></content> <tabTrigger>active</tabTrigger> <description>Displays a text between them if a viewed...</description> <scope>text.html</scope> </snippet>

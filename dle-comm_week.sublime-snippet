@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {comm_week} ]]></content> <tabTrigger>comm_week</tabTrigger> <description>Comments published this week</description> <scope>text.html</scope> </snippet>

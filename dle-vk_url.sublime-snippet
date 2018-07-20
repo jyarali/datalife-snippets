@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {vk_url} ]]></content> <tabTrigger>vk_url</tabTrigger> <description>Displays the URL link to log in to VK</description> <scope>text.html</scope> </snippet>

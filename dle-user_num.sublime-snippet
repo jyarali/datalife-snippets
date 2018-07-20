@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {user_num} ]]></content> <tabTrigger>user_num</tabTrigger> <description>Registered users</description> <scope>text.html</scope> </snippet>

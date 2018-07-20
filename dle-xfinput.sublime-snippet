@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [xfinput_${1:X}] ]]></content> <tabTrigger>xfinput</tabTrigger> <description>Displays your selected extra field in th...</description> <scope>text.html</scope> </snippet>

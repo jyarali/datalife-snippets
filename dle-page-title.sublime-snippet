@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {page-title} ]]></content> <tabTrigger>page-title</tabTrigger> <description>Display specified in the section "Titles...</description> <scope>text.html</scope> </snippet>

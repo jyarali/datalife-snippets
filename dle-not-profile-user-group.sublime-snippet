@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-profile-user-group=${1:X}] ${2:Text} [/not-profile-user-group] ]]></content> <tabTrigger>not-profile-user-group</tabTrigger> <description>The enclosed text is displayed if the gr...</description> <scope>text.html</scope> </snippet>

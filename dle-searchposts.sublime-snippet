@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [searchposts] ${1:and} [/searchposts] ]]></content> <tabTrigger>searchposts</tabTrigger> <description>Displays search results for news</description> <scope>text.html</scope> </snippet>

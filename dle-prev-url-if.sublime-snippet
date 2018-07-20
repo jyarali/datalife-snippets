@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [prev-url] ${1:text} [/prev-url] ]]></content> <tabTrigger>prev-url:if</tabTrigger> <description>Display the enclosed text if article has...</description> <scope>text.html</scope> </snippet>

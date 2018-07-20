@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [profile] ${1:text} [/profile] ]]></content> <tabTrigger>profile</tabTrigger> <description>Displays the link to the article's autho...</description> <scope>text.html</scope> </snippet>

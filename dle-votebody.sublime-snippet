@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {votebody} ]]></content> <tabTrigger>votebody</tabTrigger> <description>Displays the list of possible answers wh...</description> <scope>text.html</scope> </snippet>

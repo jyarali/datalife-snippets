@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {online-view-link} ]]></content> <tabTrigger>online-view-link</tabTrigger> <description>Displays URL link to view the document o...</description> <scope>text.html</scope> </snippet>

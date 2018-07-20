@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [spam] ${1:Spammer} [/spam] ]]></content> <tabTrigger>spam</tabTrigger> <description>Displays the enclosed text as a link to ...</description> <scope>text.html</scope> </snippet>

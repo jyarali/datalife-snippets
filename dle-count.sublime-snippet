@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {count} ]]></content> <tabTrigger>count</tabTrigger> <description>The number of downloads of the file</description> <scope>text.html</scope> </snippet>

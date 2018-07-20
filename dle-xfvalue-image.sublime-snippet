@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [xfvalue_${1:X} image="${2:Nr}"] ]]></content> <tabTrigger>xfvalue image</tabTrigger> <description>Display the uploaded images separately f...</description> <scope>text.html</scope> </snippet>

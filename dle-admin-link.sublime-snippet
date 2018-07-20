@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {admin-link} ]]></content> <tabTrigger>admin-link</tabTrigger> <description>Link to Administration Panel</description> <scope>text.html</scope> </snippet>

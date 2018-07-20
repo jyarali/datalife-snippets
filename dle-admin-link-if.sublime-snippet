@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [admin-link] ${1:text} [/admin-link] ]]></content> <tabTrigger>admin-link if</tabTrigger> <description>Displays text in the tags if the user ha...</description> <scope>text.html</scope> </snippet>

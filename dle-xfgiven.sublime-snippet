@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [xfgiven_${1:X}] ${2:text} [/xfgiven_${1:X}] ]]></content> <tabTrigger>xfgiven</tabTrigger> <description>Displays the extra field "x" if it is no...</description> <scope>text.html</scope> </snippet>

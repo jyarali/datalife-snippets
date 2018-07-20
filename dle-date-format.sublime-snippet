@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {date=${1:date-fromat}} ]]></content> <tabTrigger>date:format</tabTrigger> <description>Displays the date in the specified forma...</description> <scope>text.html</scope> </snippet>

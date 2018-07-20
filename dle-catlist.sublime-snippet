@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [catlist=${1:1,2....}] ${2:text} [/catlist] ]]></content> <tabTrigger>catlist</tabTrigger> <description>Displays the enclosed text if the articl...</description> <scope>text.html</scope> </snippet>

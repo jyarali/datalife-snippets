@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {pages} ]]></content> <tabTrigger>pages:fullstory</tabTrigger> <description>Article pages navigation</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {facebook_url} ]]></content> <tabTrigger>facebook_url</tabTrigger> <description>Displays the URL link to log in to Faceb...</description> <scope>text.html</scope> </snippet>

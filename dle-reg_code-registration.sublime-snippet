@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {reg_code} ]]></content> <tabTrigger>reg_code:registration</tabTrigger> <description>Shows the CAPTCHA code to the user</description> <scope>text.html</scope> </snippet>

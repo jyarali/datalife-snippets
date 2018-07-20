@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {mailru_url} ]]></content> <tabTrigger>mailru_url</tabTrigger> <description>Displays the URL link to log in to Mail....</description> <scope>text.html</scope> </snippet>

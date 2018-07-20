@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [sub-suffix] ${1:text} [/sub-suffix] ]]></content> <tabTrigger>sub-suffix</tabTrigger> <description>Displays text between them as a subcateg...</description> <scope>text.html</scope> </snippet>

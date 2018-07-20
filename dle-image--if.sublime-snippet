@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [image-${1:x}] text [/image-${1:x}] ]]></content> <tabTrigger>image-:if</tabTrigger> <description>Displays the enclosed text only if there...</description> <scope>text.html</scope> </snippet>

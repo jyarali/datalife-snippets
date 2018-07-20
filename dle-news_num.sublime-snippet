@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news_num} ]]></content> <tabTrigger>news_num</tabTrigger> <description>Total number of news</description> <scope>text.html</scope> </snippet>

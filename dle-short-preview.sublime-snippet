@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [short-preview] ${1:text} [/short-preview] ]]></content> <tabTrigger>short-preview</tabTrigger> <description>displays the text for the article annota...</description> <scope>text.html</scope> </snippet>

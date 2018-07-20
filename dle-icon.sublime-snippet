@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {icon} ]]></content> <tabTrigger>icon</tabTrigger> <description>Displays a category icon. This tag is us...</description> <scope>text.html</scope> </snippet>

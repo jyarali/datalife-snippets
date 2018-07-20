@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [pmlist] ${1:and} [/pmlist] ]]></content> <tabTrigger>pmlist:if</tabTrigger> <description>Displays the enclosed text if personal m...</description> <scope>text.html</scope> </snippet>

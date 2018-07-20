@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {yandex_url} ]]></content> <tabTrigger>yandex_url</tabTrigger> <description>Displays the URL link to log in to Yande...</description> <scope>text.html</scope> </snippet>

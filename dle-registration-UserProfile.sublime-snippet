@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {registration} ]]></content> <tabTrigger>registration:UserProfile</tabTrigger> <description>User's date of registration</description> <scope>text.html</scope> </snippet>

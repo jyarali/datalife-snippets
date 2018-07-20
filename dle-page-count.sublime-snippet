@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [page-count=${1:1,2,3}] ${2:text} [/page-count] ]]></content> <tabTrigger>page-count</tabTrigger> <description>Displays the enclosed text if the user i...</description> <scope>text.html</scope> </snippet>

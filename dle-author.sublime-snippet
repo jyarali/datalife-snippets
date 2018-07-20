@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {author} ]]></content> <tabTrigger>author</tabTrigger> <description>Author of the article</description> <scope>text.html</scope> </snippet>

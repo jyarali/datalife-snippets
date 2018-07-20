@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [question] ${1:and} [/question] ]]></content> <tabTrigger>question:if</tabTrigger> <description>Displays the enclosed text if question/a...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [com-edit] ${1:edit} [/com-edit] ]]></content> <tabTrigger>com-edit</tabTrigger> <description>Link to the comment edit if it is allowe...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {bbcode} ]]></content> <tabTrigger>bbcode</tabTrigger> <description>Displays buttons for inserting tags in t...</description> <scope>text.html</scope> </snippet>

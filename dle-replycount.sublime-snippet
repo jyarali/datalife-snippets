@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {replycount} ]]></content> <tabTrigger>replycount</tabTrigger> <description>It displays the number of replies for th...</description> <scope>text.html</scope> </snippet>

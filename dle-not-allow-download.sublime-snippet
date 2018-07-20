@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-allow-download] ${1:text} [/not-allow-download] ]]></content> <tabTrigger>not-allow-download</tabTrigger> <description>Displays the enclosed text if the websit...</description> <scope>text.html</scope> </snippet>

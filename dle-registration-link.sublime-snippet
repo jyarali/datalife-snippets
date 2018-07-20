@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {registration-link} ]]></content> <tabTrigger>registration-link</tabTrigger> <description>Link to the registration page</description> <scope>text.html</scope> </snippet>

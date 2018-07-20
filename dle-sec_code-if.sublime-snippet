@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [sec_code] ${1:and} [/sec_code] ]]></content> <tabTrigger>sec_code:if</tabTrigger> <description>Displays the enclosed text if it was set...</description> <scope>text.html</scope> </snippet>

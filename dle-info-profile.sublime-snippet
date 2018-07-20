@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {info} ]]></content> <tabTrigger>info:profile</tabTrigger> <description>Brief information about the user</description> <scope>text.html</scope> </snippet>

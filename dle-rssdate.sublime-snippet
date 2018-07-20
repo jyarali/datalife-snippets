@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {rssdate} ]]></content> <tabTrigger>rssdate</tabTrigger> <description>Date of the article (in rss.tpl)</description> <scope>text.html</scope> </snippet>

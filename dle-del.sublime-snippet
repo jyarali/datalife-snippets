@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [del] ${1:and} [/del] ]]></content> <tabTrigger>del</tabTrigger> <description>Link to delete a message</description> <scope>text.html</scope> </snippet>

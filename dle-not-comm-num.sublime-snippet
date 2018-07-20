@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-comm-num] ${1:text} [/not-comm-num] ]]></content> <tabTrigger>not-comm-num</tabTrigger> <description>Displays the enclosed text only if user ...</description> <scope>text.html</scope> </snippet>

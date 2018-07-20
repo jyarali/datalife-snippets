@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [ifxfvalue tagname!="${1:tagvalue}"] ${2:Text} [/ifxfvalue] ]]></content> <tabTrigger>ifxfvalue not</tabTrigger> <description>Text between them will be displayed if t...</description> <scope>text.html</scope> </snippet>

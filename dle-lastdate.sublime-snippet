@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {lastdate} ]]></content> <tabTrigger>lastdate</tabTrigger> <description>Date of the last visit</description> <scope>text.html</scope> </snippet>

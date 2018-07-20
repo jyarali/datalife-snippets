@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {vote-num} ]]></content> <tabTrigger>vote-num</tabTrigger> <description>Displays the number of users who rated t...</description> <scope>text.html</scope> </snippet>

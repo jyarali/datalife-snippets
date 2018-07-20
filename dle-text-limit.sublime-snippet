@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {text limit="${1:x}"} ]]></content> <tabTrigger>text:limit</tabTrigger> <description>displays the text of the static page, wi...</description> <scope>text.html</scope> </snippet>

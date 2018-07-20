@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-group=${1:1}] ${2:text} [/not-group] ]]></content> <tabTrigger>not-group</tabTrigger> <description>Displays the text for any user group exc...</description> <scope>text.html</scope> </snippet>

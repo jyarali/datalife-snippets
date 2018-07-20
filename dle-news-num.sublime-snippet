@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news-num} ]]></content> <tabTrigger>news-num</tabTrigger> <description>Number of user's articles</description> <scope>text.html</scope> </snippet>

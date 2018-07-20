@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {info} ]]></content> <tabTrigger>info</tabTrigger> <description>Displays the service information if nece...</description> <scope>text.html</scope> </snippet>

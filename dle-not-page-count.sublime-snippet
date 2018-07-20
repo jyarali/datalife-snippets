@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-page-count=${1:1,2,3}] ${2:text} [/not-page-count] ]]></content> <tabTrigger>not-page-count</tabTrigger> <description>Displays the enclosed text on any page e...</description> <scope>text.html</scope> </snippet>

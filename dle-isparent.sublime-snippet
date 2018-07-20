@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [isparent] ${1:text} [/isparent] ]]></content> <tabTrigger>isparent</tabTrigger> <description>Displays a text between them if a catego...</description> <scope>text.html</scope> </snippet>

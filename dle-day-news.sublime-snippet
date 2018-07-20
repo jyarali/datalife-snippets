@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [day-news] ${1:text} [/day-news] ]]></content> <tabTrigger>day-news</tabTrigger> <description>Displays the link to all the news publis...</description> <scope>text.html</scope> </snippet>

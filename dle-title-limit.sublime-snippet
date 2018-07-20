@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {title limit="${1:x}"} ]]></content> <tabTrigger>title:limit</tabTrigger> <description>Article title</description> <scope>text.html</scope> </snippet>

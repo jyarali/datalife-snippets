@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {topnews} ]]></content> <tabTrigger>topnews</tabTrigger> <description>Displays the highest-rated articles that...</description> <scope>text.html</scope> </snippet>

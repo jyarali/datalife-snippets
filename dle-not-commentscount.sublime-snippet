@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [not-commentscount=${1:x}] ${2:text} [/not-commentscount] ]]></content> <tabTrigger>not-commentscount</tabTrigger> <description>Displays the enclosed text when any comm...</description> <scope>text.html</scope> </snippet>

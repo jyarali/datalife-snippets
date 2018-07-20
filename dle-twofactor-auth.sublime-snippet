@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {twofactor-auth} ]]></content> <tabTrigger>twofactor-auth</tabTrigger> <description>Displays the check box where user can en...</description> <scope>text.html</scope> </snippet>

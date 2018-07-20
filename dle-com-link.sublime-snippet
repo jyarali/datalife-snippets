@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [com-link] ${1:comments} [/com-link] ]]></content> <tabTrigger>com-link</tabTrigger> <description>Link to comments to this article. Displa...</description> <scope>text.html</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [reply] ${1:text} [/reply] ]]></content> <tabTrigger>reply</tabTrigger> <description>Enclosed text is displayed as a link to ...</description> <scope>text.html</scope> </snippet>

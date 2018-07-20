@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ {news-subscribe} ]]></content> <tabTrigger>news-subscribe</tabTrigger> <description>Displays a checkbox for unsubscribing fr...</description> <scope>text.html</scope> </snippet>

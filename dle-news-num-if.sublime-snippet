@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[ [news-num] ${1:text} [/news-num] ]]></content> <tabTrigger>news-num:if</tabTrigger> <description>Displays the enclosed text only if user ...</description> <scope>text.html</scope> </snippet>
